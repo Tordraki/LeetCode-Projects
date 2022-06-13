@@ -1,5 +1,4 @@
 public class maxSubArray {
-
     public int maxSubArray(int[] nums) {
         int current = 0;
         int max = nums[0];

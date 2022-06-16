@@ -1,3 +1,4 @@
+import java.util.*;
 public class insert {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         List<int[]> list = new ArrayList<int[]>();
